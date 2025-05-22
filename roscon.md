@@ -29,13 +29,13 @@ ROSの開発では，ノードの起動方法に`ros2 run`と`ros2 launch`とい
 
 ## CLIツールの機能
 
-- 画面図
-  - 左のパネルの説明
-  - 右のパネルの説明
-  
-  ![image](https://github.com/harumo11/roscon_jp_2025/blob/main/topview.png) 
-  
-  
+### 画面説明
+
+![image](https://github.com/harumo11/roscon_jp_2025/blob/main/topview.png?raw=true) 
+
+
+
+
 
 ## まとめ
 
